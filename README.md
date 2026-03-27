@@ -7,10 +7,7 @@ The model is trained on a labeled dataset and learns to classify images into thr
 ## Features
 - Uses VGG19 pre-trained model
 - Applies transfer learning
-- Classifies images into:
- - Cat
- - Dog
- - Panda
+- Classifies images into: Cat, Dog and Panda
 - Built using PyTorch
 - Includes training and testing pipeline
 
